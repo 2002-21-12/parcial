@@ -1,0 +1,59 @@
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210903/pngtree-mens-clothing-store-sportswear-shopping-photography-map-with-pictures-image_796890.jpg);
+}
+
+
+
+h3{
+    text-align: right;
+}
+
+.Bienvenido{
+     border-radius: 20px;
+     display: flexbox;
+}
+.logo{
+    text-align: center;
+    text-decoration: none;
+    font-size: 60px;
+    color: black;
+
+}
+.navbar{
+    color: black;
+    
+}
+.marcio{
+     
+    color: black;
+    float: left;
+    
+    
+
+}
+.contenido{
+ font-size: 20px;
+ color:azure;
+ text-decoration: double;
+ text-align: center;
+
+}
+
+.servicioscontainer {
+    display: flex;
+    text-align: center;
+    margin: 20px;
+
+}
+.imj{
+    margin: 150px;
+    border-radius: 20px;
+
+}
+.cuadro{
+    background-color:antiquewhite;
+}
+.borde{
+    border-width: 6px;
+    border-color: bisque;
+}
